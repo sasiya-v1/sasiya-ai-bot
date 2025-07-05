@@ -1,0 +1,9 @@
+[build]
+  command = "npm install"
+  functions = "functions"
+  publish = "."
+
+[[redirects]]
+  from = "/webhook"
+  to   = "/.netlify/functions/whatsapp"
+  status = 200
