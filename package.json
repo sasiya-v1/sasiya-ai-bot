@@ -1,0 +1,12 @@
+{
+  "name": "sasiya-whatsapp-gpt",
+  "version": "1.0.0",
+  "description": "Sasiya AI ChatGPT WhatsApp bot",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "twilio": "^4.0.0"
+  },
+  "scripts": {
+    "build": "echo done"
+  }
+}
